@@ -45,7 +45,7 @@ Working 💼 [**@OTOZ**][otoz] as a DevOps Engineer.
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shakaib-arif&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shakaib-arif&show_icons=true&hide_border=true&count_private=true&hide=contribs,stars)
 
 ---
 ### Find me in the web 🌍
