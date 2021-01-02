@@ -21,8 +21,7 @@ Working 💼 [**@OTOZ**][otoz] as a DevOps Engineer.
 ![Profile views](https://gpvc.arturio.dev/shakaib-arif)
 ### Tech & Tools Preference
 
-<img src="https://img.shields.io/badge/-Docker-FFFFFF?logo=docker&style=flat">
-<img src="https://img.shields.io/badge/-Kubernetes-FFFFFF?logo=kubernetes&style=flat">
+<img src="https://img.shields.io/badge/-Docker-FFFFFF?logo=docker&style=flat"> <img src="https://img.shields.io/badge/-Kubernetes-FFFFFF?logo=kubernetes&style=flat">
 <img src="https://img.shields.io/badge/-Helm-0F1689?logo=helm&style=flat">
 <img src="https://img.shields.io/badge/-Azure Pipelines-2560E0?logo=azure%20pipelines&style=flat">
 <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&style=flat&logoColor=FFFFFF">
@@ -36,12 +35,14 @@ Working 💼 [**@OTOZ**][otoz] as a DevOps Engineer.
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Sublime-FFFFFF?logo=sublime%20text&style=flat">
-<!-- <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-NPM-FFFFFF?style=flat&logo=npm&logoColor=white"> -->
 <img src="https://img.shields.io/badge/-Azure-FFFFFF?logo=microsoft%20azure&style=flat">
+<!--
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-NPM-FFFFFF?style=flat&logo=npm&logoColor=white">
+-->
 
 ### Languages that I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
 
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shakaib-arif&show_icons=true&hide_border=true)
