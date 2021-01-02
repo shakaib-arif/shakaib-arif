@@ -47,6 +47,12 @@ Working 💼 [**@OTOZ**][otoz] as a DevOps Engineer.
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shakaib-arif&show_icons=true&hide_border=true&count_private=true&hide=contribs,stars)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakaib-arif&exclude_repo=ios-sample&langs_count=3&layout=compact)](https://github.com/shakaib-arif)
+
+<a href="https://github.com/shakaib-arif/docker-lamp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shakaib-arif&repo=docker-lamp" />
+</a>
+
 ---
 ### Find me in the web 🌍
 [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
