@@ -57,5 +57,5 @@ Let's connect 👨‍💻 and forge the future together.✌
 
 [twitter]: https://twitter.com/shakaib_arif
 [linkedin]: https://www.linkedin.com/in/shakaibarif
-[medium]: https://medium.com/@shakaib_arif
+[medium]: https://shakaib-arif.medium.com/
 [otoz]: https://otoz.biz
