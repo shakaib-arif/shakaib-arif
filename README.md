@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about DevOps tools, cloud, containerization and any Tech-related stuff.
 - ⚡ Fun fact: *Nothing is permanent*
 
-Working 💼 [**@OTOZ**][otoz] as a DevOps Engineer.
+Working 💼 as a DevOps Engineer.
 
 ![Profile views](https://gpvc.arturio.dev/shakaib-arif)
 ### Tech & Tools Preference
